@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning ... Java, Spring
-- 📫 How to reach me: ... le2yj94@gmail.com
+- 🌱 I’m currently learning Java, Spring
+- 📫 How to reach me: le2yj94@gmail.com
 
 
 <!--
