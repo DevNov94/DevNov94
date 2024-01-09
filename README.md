@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <br/>
 <div align="center">
      <h2>Hi there 👋</h2>
-     <h4>🍀 Contact with me</h5>
+     <h4>🍀 Contact with me</h4>
      <p>
           <a href="mailto:le2yj94@gmail.com" target="_blank">
           <img src="https://img.shields.io/badge/GMAIL-EA4335?logo=Gmail&logoColor=white"/></a>
