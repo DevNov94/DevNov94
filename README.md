@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <div>
      <h4>Backend</h4>
-     <p><img src="https://skillicons.dev/icons?i=java,spring" /></p>
+     <p><img src="https://skillicons.dev/icons?i=java,spring,mysql" /></p>
 </div>
 
 <div>
