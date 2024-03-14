@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <div>
      <h4>Frontend</h4>
-     <p><img src="https://skillicons.dev/icons?i=html5,css3" /></p>
+     <p><img src="https://skillicons.dev/icons?i=html,css" /></p>
 </div>
 
 <div>
