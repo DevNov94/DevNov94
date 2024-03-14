@@ -24,10 +24,10 @@ Here are some ideas to get you started:
      <h2>Hi there 👋</h2>
      <h4>🍀 Contact with me</h4>
      <p>
-          <a href="https://eevee-dev.tistory.com/" target="_blank">
-               <img src="https://img.shields.io/badge/GMAIL-EA4335?logo=Gmail&logoColor=white"/></a>
           <a href="mailto:le2yj94@gmail.com" target="_blank">
-          <img src="https://img.shields.io/badge/tistory-black?logo=tistory"/></a>
+          <img src="https://img.shields.io/badge/GMAIL-EA4335?logo=Gmail&logoColor=white"/></a>
+          <a href="https://eevee-dev.tistory.com/" target="_blank">
+          <img src="https://img.shields.io/badge/tistory-212121?logo=tistory"/></a>
      </p>
 </div>
 <hr/>
